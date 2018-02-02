@@ -1,4 +1,4 @@
-# attack-on-pycryptodome-elgamal
+# Attack the ElGamal Implementation on PyCryptodome
 Attack on the ElGamal Implementation of PyCryptodome
 
 The authors:
@@ -8,3 +8,5 @@ The authors:
 
 # Test result on Travis
 [![Build Status](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal.svg?branch=master)](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal)
+
+Please check the following link for a third-party running trace: https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal/builds/336415556
