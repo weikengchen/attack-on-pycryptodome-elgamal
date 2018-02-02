@@ -6,5 +6,5 @@ The authors:
      Weikeng Chen
      
 
-* Test result on Travis * 
+*Test result on Travis* 
 [![Build Status](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal.svg?branch=master)](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal)
