@@ -5,4 +5,6 @@ The authors:
      TElgamal (https://github.com/TElgamal), who wants to be anonymous now.
      Weikeng Chen
      
-More details will follow.
+
+* Test result on Travis * 
+[![Build Status](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal.svg?branch=master)](https://www.travis-ci.org/weikengchen/attack-on-pycryptodome-elgamal)
