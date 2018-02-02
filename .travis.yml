@@ -8,4 +8,4 @@ install:
   - pip install pycryptodomex
 
 script:
-  - attack_pycrypto.py
+  - ./attack_pycrypto.py
